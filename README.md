@@ -1,3 +1,6 @@
+<img width="437" height="415" alt="image" src="https://github.com/user-attachments/assets/5df901db-09e6-4da3-96bb-b56733b5d96f" />
+
+
 # Outlook Link Converter
 
 A simple GUI application to convert network drive paths into Outlook 365-compatible links.
