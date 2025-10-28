@@ -1,0 +1,28 @@
+{
+    "window_title": "Outlook Link Converter",
+    "window_width": 400,
+    "window_height": 300,
+    "instructions_text": "Drag and drop a file or paste path below:",
+    "input_placeholder": "e.g., P:/Machine Shop/file.docx",
+    "convert_button_text": "Convert to Outlook Link",
+    "output_label_text": "Converted Link:",
+    "clear_button_text": "Clear",
+    "always_on_top_text": "Keep window on top",
+    "always_on_top_default": true,
+    "drop_zone_text": "Drop File Here",
+    "drop_zone_font_size": 11,
+    "font_family": "Segoe UI",
+    "font_size": 9,
+    "theme_color": "#0078D4",
+    "success_color": "#107C10",
+    "background_color": "#262626",
+    "text_color": "#FFFFFF",
+    "input_background": "#333333",
+    "input_text_color": "#FFFFFF",
+    "output_background": "#333333",
+    "output_text_color": "#FFFFFF",
+    "unc_to_drive_mappings": {
+        "\\\\Schuette-DC1\\production": "P:",
+        "\\\\Schuette-DC1": "G:"
+    }
+}
