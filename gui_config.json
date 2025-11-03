@@ -22,7 +22,8 @@
     "output_background": "#333333",
     "output_text_color": "#FFFFFF",
     "unc_to_drive_mappings": {
-        "\\\\Schuette-DC1\\production": "P:",
-        "\\\\Schuette-DC1": "G:"
+        "\\\\networkpath\\p": "P:",
+        "\\\\networkpath": "G:"
     }
+
 }
