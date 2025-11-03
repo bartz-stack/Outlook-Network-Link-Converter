@@ -2,12 +2,12 @@
 
 A simple GUI application to convert network drive paths into Outlook 365-compatible links.
 
-Windows 11 and Outlook 365 broke traditional network path linking. This tool converts paths like:
+Windows 11 and Outlook 365 broke traditional network path linking. Changed old style links to ones with %20 for space and local mapping.
 
+This tool converts paths like:
 P:/Machine Shop/Documents/Thrive Lubrication Chart.docx
 
 Into Outlook-compatible links:
-
 https://outlook.office.com/local/path/file://"P:/Machine%20Shop/Documents/Thrive%20Lubrication%20Chart.docx"
 
 ## Features
